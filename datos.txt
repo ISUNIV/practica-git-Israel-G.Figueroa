@@ -1,2 +1,4 @@
 Practica de Git (Repositorio Local)
 Este archivo fue modificado desde GitHub
+
+Este archivo fue modificado desde el repositorio local.
